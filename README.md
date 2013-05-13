@@ -1,4 +1,4 @@
-entity-linking-and-retrieval-tutorial
+Entity Linking and Retrieval Tutorial
 =====================================
 
-Entity Linking and Retrieval Tutorial
+Tutorial given at WWW 2013 and SIGIR 2013.
