@@ -1,0 +1,8 @@
+title: entity-linking-and-retrieval-tutorial
+description: Entity Linking and Retrieval Tutorial
+google_analytics: UA-40878224-1
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
