@@ -9,10 +9,9 @@ Presented:
 * at [YSS 2013](https://www.facebook.com/YahooSummerSchool2013) ([slides](https://github.com/ejmeij/entity-linking-and-retrieval-tutorial/tree/master/BLR%202013)), and 
 * at [WWW 2013](http://www2013.org/2013/04/15/13th-tutorial-11-entity-linking-and-retrieval/) ([slides](https://github.com/ejmeij/entity-linking-and-retrieval-tutorial/tree/master/WWW%202013)).
 
-[<span class="icon"></span>View on GitHub](https://github.com/ejmeij/entity-linking-and-retrieval-tutorial) [CodeAcademy Course](http://bit.ly/ELR-course) [Mendeley Group](http://bit.ly/ELR-bib)
-
-
-<section id="main_content">
+See also:
+* [CodeAcademy Course](http://bit.ly/ELR-course) 
+* [Mendeley Literature List/Reading Group](http://bit.ly/ELR-bib)
 
 ## Contributors
 
